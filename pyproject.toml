@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "stuttgard-2023"
+version = "0.1.0"
+description = ""
+authors = ["HugoMVale <57530119+HugoMVale@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.11"
+numpy = "^1.26.1"
+scipy = "^1.11.3"
+matplotlib = "^3.8.0"
+polykin = "^0.2.0"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
