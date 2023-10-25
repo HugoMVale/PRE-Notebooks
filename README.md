@@ -1,4 +1,8 @@
-# Modeling and Simulation of (De)Polymerization reactions
+# Modeling and Simulation of (De)Polymerization Reactions
+
+<p align="center">
+  <img src="notebooks/1/animation.gif" width="500" alt="Randsom scission">
+</p>
 
 This GitHub repository contains Jupyter notebooks and Matlab scripts for a series
 of lectures on the modeling of (de)polymerization reactions. These
