@@ -1,6 +1,6 @@
 # Modeling and Simulation of (De)Polymerization reactions
 
-This GitHub repository contains a series of Jupyter notebooks and Matlab scripts for a series
+This GitHub repository contains Jupyter notebooks and Matlab scripts for a series
 of lectures on the modeling of (de)polymerization reactions. These
 lectures are intended to provide a basic understanding of various aspects of polymerization
 reactions and the mathematical and computational methods used to model and analyze them.
