@@ -1,0 +1,6 @@
+numpy < 2.0
+scipy
+numba
+matplotlib
+ipywidgets
+ipympl
