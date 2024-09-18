@@ -4,34 +4,33 @@
   <img src="notebooks/1/animation.gif" width="500" alt="Randsom scission">
 </p>
 
-This GitHub repository contains Jupyter notebooks and Matlab scripts for a series
-of lectures on the modeling of (de)polymerization reactions. These
-lectures are intended to provide a basic understanding of various aspects of polymerization
-reactions and the mathematical and computational methods used to model and analyze them.
+This GitHub repository contains Jupyter notebooks to illustrate  various aspects of polymerization
+reactions and the mathematical and computational methods used to model and analyze them. They
+are suitable for self-learning as well as for classroom instruction.
 
-## Lecture Topics
+## Topics
 
-The lectures are organized into the following topics:
+The notebooks cover the following topics:
 
-1. Introduction to polymers and methods to compute distributed quantities
-
-2. Kinetics and modeling of step-growth (de)polymerization
-
-3. Kinetics and modeling of radical polymerization
-
-4. Kinetics and modeling of radical copolymerization and pyrolysis.
+- [x] Methods for solving dynamic models and population balance equations.
+- [x] Monte Carlo methods.
+- [x] Step-growth (de)polymerization.
+- [x] Radical polymerization.
+- [x] Living polymerization.
+- [ ] Radical copolymerization.
 
 ## Getting Started
 
-To get started with the lectures and materials, follow these steps:
+To run the tutorials, you may use one of two methods:
 
-1. Clone or download this repository to your local machine.
+* **[Google Colab](https://colab.research.google.com/)** — The notebooks can be opened
+directly from the source code repository ("File -> Open notebook -> GitHub -> URL") using the
+following repo name: `HugoMVale/Polymer-Reaction-Engineering-Lectures`. This method requires a
+Google account.
 
-2. Make sure you have Python and Jupyter Notebook and/or Matlab installed.
-
-3. Navigate to the lecture folder of your choice and open the corresponding notebook.
-
-4. Follow the instructions and code examples in the notebook to explore the topic.
+* **Local environment** — Alternatively, you may clone or download this repository to your
+local machine. This method requires a local Python installation as well as the packages listed
+in [`requirements.txt`](requirements.txt).
 
 ## Contribution
 
@@ -41,8 +40,7 @@ please consider submitting a pull request.
 
 ## License
 
-This project is provided under the [MIT License](LICENSE). Please review the license for more
-details on how you can use and distribute this content.
+This project is provided under the very permissive [MIT License](LICENSE).
 
 We hope these lectures and materials provide a valuable resource for your journey into the
 world of (de)polymerization reaction modeling. Happy learning!
