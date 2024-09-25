@@ -12,12 +12,11 @@ are suitable for self-learning as well as for classroom instruction.
 
 The notebooks cover the following topics:
 
-- [x] Methods for solving dynamic models and population balance equations.
-- [x] Monte Carlo methods.
-- [x] Step-growth (de)polymerization.
-- [x] Radical polymerization.
-- [x] Living polymerization.
-- [ ] Radical copolymerization.
+1. [Population Balances for Polymer Systems](./notebooks/1_pbes.ipynb)
+1. [Monte Carlo Model of $A_n$ + $B_m$ Polycondensation](./notebooks/2_monte_carlo_polycondensation.ipynb)
+1. [Living Polymerization – Chain Length Distribution](./notebooks/3_living_polymerization_distribution.ipynb)
+1. [Living Polymerization – CSTR Operation](./notebooks/4_living_polymerization_cstr.ipynb)
+1. [Naive Radical Polymerization Model](./notebooks/5_radical_polymerization.ipynb)
 
 ## Getting Started
 
