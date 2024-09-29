@@ -1,19 +1,21 @@
 # Modeling of (De)Polymerization Processes
 
-<p align="center">
-  <img src="notebooks/animation_PLP-SEC-5-pulses.gif" width="800" alt="Randsom scission">
-</p>
+This GitHub repository contains Jupyter notebooks that illustrate various aspects of polymerization reactions,
+along with the mathematical and computational methods used to model and analyze them.
+These resources are suitable for both self-learning and classroom instruction.
 
-This GitHub repository contains Jupyter notebooks to illustrate  various aspects of polymerization
-reactions and the mathematical and computational methods used to model and analyze them. They
-are suitable for self-learning as well as for classroom instruction.
+You can learn to do cool things like the example below! 🚀
+
+<p align="center">
+  <img src="notebooks/animation_PLP-SEC-5-pulses.gif" width="700" alt="Randsom scission">
+</p>
 
 ## Topics
 
 The notebooks cover the following topics:
 
 1. [Population Balances for Polymer Systems](./notebooks/1_pbes.ipynb)
-1. [Monte Carlo Model of $A_n$ + $B_m$ Polycondensation](./notebooks/2_monte_carlo_polycondensation.ipynb)
+1. [Monte Carlo Model of An + Bm Polycondensation](./notebooks/2_monte_carlo_polycondensation.ipynb)
 1. [Living Polymerization – Chain Length Distribution](./notebooks/3_living_polymerization_distribution.ipynb)
 1. [Living Polymerization – CSTR Operation](./notebooks/4_living_polymerization_cstr.ipynb)
 1. [Naive Radical Polymerization Model](./notebooks/5_radical_polymerization.ipynb)
