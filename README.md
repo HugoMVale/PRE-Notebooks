@@ -1,7 +1,7 @@
-# Modeling and Simulation of (De)Polymerization Reactions
+# Modeling of (De)Polymerization Processes
 
 <p align="center">
-  <img src="notebooks/animation_scission.gif" width="500" alt="Randsom scission">
+  <img src="notebooks/animation_PLP-SEC-5-pulses.gif" width="500" alt="Randsom scission">
 </p>
 
 This GitHub repository contains Jupyter notebooks to illustrate  various aspects of polymerization
