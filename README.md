@@ -17,6 +17,7 @@ The notebooks cover the following topics:
 1. [Living Polymerization – Chain Length Distribution](./notebooks/3_living_polymerization_distribution.ipynb)
 1. [Living Polymerization – CSTR Operation](./notebooks/4_living_polymerization_cstr.ipynb)
 1. [Naive Radical Polymerization Model](./notebooks/5_radical_polymerization.ipynb)
+1. [Pulsed-Laser Polymerization](./notebooks/6_pulsed_laser_polymerization.ipynb)
 
 ## Getting Started
 
