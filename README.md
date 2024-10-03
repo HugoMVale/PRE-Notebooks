@@ -14,7 +14,7 @@ You can learn to do cool things like the example below! 🚀
 
 The notebooks cover the following topics:
 
-1. [Population Balances for Polymer Systems](./notebooks/1_pbes.ipynb)
+1. [Population Balances for Polymer Systems](./notebooks/1_population_balances.ipynb)
 1. [Monte Carlo Model of An + Bm Polycondensation](./notebooks/2_monte_carlo_polycondensation.ipynb)
 1. [Living Polymerization – Chain Length Distribution](./notebooks/3_living_polymerization_distribution.ipynb)
 1. [Living Polymerization – CSTR Operation](./notebooks/4_living_polymerization_cstr.ipynb)
