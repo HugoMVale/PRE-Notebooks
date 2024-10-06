@@ -1,5 +1,7 @@
 # Modeling of (De)Polymerization Processes
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HugoMVale/Polymer-Reaction-Engineering-Lectures/tree/main/notebooks/HEAD)
+
 This GitHub repository contains Jupyter notebooks that illustrate various aspects of polymerization reactions,
 along with the mathematical and computational methods used to model and analyze them.
 These resources are suitable for both self-learning and classroom instruction.
