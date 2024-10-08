@@ -1,4 +1,4 @@
-# Modeling of (De)Polymerization Processes
+# (De)Polymerization Process Modeling
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HugoMVale/Polymer-Reaction-Engineering-Lectures/HEAD?labpath=notebooks)
 
