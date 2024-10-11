@@ -16,13 +16,13 @@ You can learn to do cool things like the example below! 🚀
 
 The notebooks cover the following topics:
 
-1. [Population Balances for Polymer Systems](./notebooks/1_population_balances.ipynb)
-1. [Monte Carlo Model of An + Bm Polycondensation](./notebooks/2_monte_carlo_polycondensation.ipynb)
-1. [Living Polymerization – Chain Length Distribution](./notebooks/3_living_polymerization_distribution.ipynb)
-1. [Living Polymerization – CSTR Operation](./notebooks/4_living_polymerization_cstr.ipynb)
-1. [Naive Radical Polymerization Model](./notebooks/5_radical_polymerization.ipynb)
-1. [Pulsed-Laser Polymerization](./notebooks/6_pulsed_laser_polymerization.ipynb)
-1. [Radical Polymerization – Semibatch Operation](./notebooks/7_radical_polymerization_semibatch.ipynb)
+1. [Population Balances for Polymer Systems](https://nbviewer.org/github/HugoMVale/De-Polymerization-Process-Modeling/blob/main/notebooks/1_population_balances.ipynb)
+1. [Monte Carlo Model of An + Bm Polycondensation](https://nbviewer.org/github/HugoMVale/De-Polymerization-Process-Modeling/blob/main/notebooks/2_monte_carlo_polycondensation.ipynb)
+1. [Living Polymerization – Chain Length Distribution](https://nbviewer.org/github/HugoMVale/De-Polymerization-Process-Modeling/blob/main/notebooks/3_living_polymerization_distribution.ipynb)
+1. [Living Polymerization – CSTR Operation](https://nbviewer.org/github/HugoMVale/De-Polymerization-Process-Modeling/blob/main/notebooks/4_living_polymerization_cstr.ipynb)
+1. [Naive Radical Polymerization Model](https://nbviewer.org/github/HugoMVale/De-Polymerization-Process-Modeling/blob/main/notebooks/5_radical_polymerization.ipynb)
+1. [Pulsed-Laser Polymerization](https://nbviewer.org/github/HugoMVale/De-Polymerization-Process-Modeling/blob/main/notebooks/6_pulsed_laser_polymerization.ipynb)
+1. [Radical Polymerization – Semibatch Operation](https://nbviewer.org/github/HugoMVale/De-Polymerization-Process-Modeling/blob/main/notebooks/7_radical_polymerization_semibatch.ipynb)
 
 ## Getting Started
 
