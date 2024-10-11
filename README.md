@@ -1,6 +1,6 @@
 # (De)Polymerization Process Modeling
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HugoMVale/Polymer-Reaction-Engineering-Lectures/HEAD?labpath=notebooks)
+![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)
 
 This GitHub repository contains Jupyter notebooks that illustrate various aspects of polymerization reactions,
 along with the mathematical and computational methods used to model and analyze them.
@@ -9,7 +9,7 @@ These resources are suitable for both self-learning and classroom instruction.
 You can learn to do cool things like the example below! 🚀
 
 <p align="center">
-  <img src="notebooks/animation_PLP-SEC-5-pulses.gif" width="700" alt="Randsom scission">
+  <img src="notebooks/animation_PLP-SEC-10-pulses.gif" width="600" alt="Randsom scission">
 </p>
 
 ## Topics
@@ -22,24 +22,30 @@ The notebooks cover the following topics:
 1. [Living Polymerization – CSTR Operation](./notebooks/4_living_polymerization_cstr.ipynb)
 1. [Naive Radical Polymerization Model](./notebooks/5_radical_polymerization.ipynb)
 1. [Pulsed-Laser Polymerization](./notebooks/6_pulsed_laser_polymerization.ipynb)
-1. [Semibatch Operation: Radical Polymerization](./notebooks/7_semibatch_radical_polymerization.ipynb)
+1. [Radical Polymerization – Semibatch Operation](./notebooks/7_radical_polymerization_semibatch.ipynb)
 
 ## Getting Started
 
-To run the tutorials, you may use one of two methods:
+To run the tutorials, you can use one of three methods:
 
-* **[Google Colab](https://colab.research.google.com/)** — The notebooks can be opened
-directly from the source code repository ("File -> Open notebook -> GitHub -> URL") using the
-following repo name: `HugoMVale/Polymer-Reaction-Engineering-Lectures`. This method requires a
-Google account.
+* **[Google Colab](https://colab.research.google.com/)** — You can open the notebooks directly from the source code repository by selecting _File -> Open notebook -> GitHub -> URL"_, and entering the following repository name: `HugoMVale/De-Polymerization-Process-Modeling`. This method requires a Google account but is likely the easiest for beginners.
 
-* **Local environment** — Alternatively, you may clone or download this repository to your
-local machine. This method requires a local Python installation as well as the packages listed
-in [`requirements.txt`](requirements.txt).
+* **[Binder](https://mybinder.org/v2/gh/HugoMVale/De-Polymerization-Process-Modeling/HEAD?labpath=notebooks)** — Binder also allows you to open the notebooks directly from the repository. However, you will need to _wait_ for the container to be built. While suitable for beginners, this method requires a bit more patience, and the build process can occasionally fail, requiring a relaunch.
+
+* **Local environment** — Alternatively, you can clone or download this repository to your local machine. This method requires a local Python (>=3.10) installation as well as the packages listed
+in [`requirements.txt`](requirements.txt). Assuming you're running Windows and have `git` installed, follow these steps:
+
+  ```sh
+  git clone https://github.com/HugoMVale/De-Polymerization-Process-Modeling.git
+  cd De-Polymerization-Process-Modeling
+  python -m venv .venv
+  .\.venv\Scripts\Activate.ps1
+  pip install -r requirements.txt
+  ```
 
 ## Contribution
 
-Contributions and improvements to these lectures are welcome. If you have any suggestions,
+Contributions and improvements to these notebooks are welcome. If you have any suggestions,
 corrections, or additional materials that could enhance the learning experience,
 please consider submitting a pull request.
 
