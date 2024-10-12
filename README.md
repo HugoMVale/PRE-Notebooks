@@ -28,7 +28,7 @@ The notebooks cover the following topics:
 
 To run the tutorials, you can use one of three methods:
 
-* **[Google Colab](https://colab.research.google.com/)** — You can open the notebooks directly from the source code repository by selecting _File -> Open notebook -> GitHub -> URL"_, and entering the following repository name: `HugoMVale/De-Polymerization-Process-Modeling`. This method requires a Google account but is likely the easiest for beginners.
+* **[Google Colab](https://colab.research.google.com/)** — You can open the notebooks directly from the source code repository by selecting _File -> Open notebook -> GitHub -> URL"_, and entering the following repository name: `HugoMVale/PRE-Notebooks`. This method requires a Google account but is likely the easiest for beginners.
 
 * **[Binder](https://mybinder.org/v2/gh/HugoMVale/PRE-Notebooks/HEAD?labpath=notebooks)** — Binder also allows you to open the notebooks directly from the repository. However, you will need to _wait_ for the container to be built. While suitable for beginners, this method requires a bit more patience, and the build process can occasionally fail, requiring a relaunch.
 
