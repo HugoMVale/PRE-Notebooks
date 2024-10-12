@@ -36,8 +36,8 @@ To run the tutorials, you can use one of three methods:
 in [`requirements.txt`](requirements.txt). Assuming you're running Windows and have `git` installed, follow these steps:
 
   ```sh
-  git clone https://github.com/HugoMVale/De-Polymerization-Process-Modeling.git
-  cd De-Polymerization-Process-Modeling
+  git clone https://github.com/HugoMVale/PRE-Notebooks.git
+  cd PRE-Notebooks
   python -m venv .venv
   .\.venv\Scripts\Activate.ps1
   pip install -r requirements.txt
