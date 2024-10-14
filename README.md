@@ -22,7 +22,7 @@ The notebooks cover the following topics:
 1. [Living Polymerization – CSTR Operation](https://nbviewer.org/github/HugoMVale/PRE-Notebooks/blob/main/notebooks/4_living_polymerization_cstr.ipynb)
 1. [Naive Radical Polymerization Model](https://nbviewer.org/github/HugoMVale/PRE-Notebooks/blob/main/notebooks/5_radical_polymerization.ipynb)
 1. [Pulsed-Laser Polymerization](https://nbviewer.org/github/HugoMVale/PRE-Notebooks/blob/main/notebooks/6_pulsed_laser_polymerization.ipynb)
-1. [Radical Polymerization – Semibatch Operation](https://nbviewer.org/github/HugoMVale/PRE-Notebooks/blob/main/notebooks/7_radical_polymerization_semibatch.ipynb)
+1. [Semibatch Operation and Thermal Safety](https://nbviewer.org/github/HugoMVale/PRE-Notebooks/blob/main/notebooks/7_semibatch_operation_safety.ipynb)
 
 ## Getting Started
 
