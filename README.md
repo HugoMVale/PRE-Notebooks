@@ -24,6 +24,7 @@ The notebooks cover the following topics:
 1. [Pulsed-Laser Polymerization](https://nbviewer.org/github/HugoMVale/PRE-Notebooks/blob/main/notebooks/6_pulsed_laser_polymerization.ipynb)
 1. [Semibatch Operation and Thermal Safety](https://nbviewer.org/github/HugoMVale/PRE-Notebooks/blob/main/notebooks/7_semibatch_operation_safety.ipynb)
 1. [Radical Copolymerization](https://nbviewer.org/github/HugoMVale/PRE-Notebooks/blob/main/notebooks/8_radical_copolymerization.ipynb)
+1. [Steady-State Multiplicity in CSTRs](https://nbviewer.org/github/HugoMVale/PRE-Notebooks/blob/main/notebooks/9_cstr_multiplicity.ipynb)
 
 ## Getting Started
 
