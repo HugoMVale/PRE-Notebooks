@@ -1,0 +1,22 @@
+format: jb-book
+root: docs/index
+
+parts:
+  - caption: Getting Started
+    numbered: false
+    chapters:
+    - file: docs/get_started
+
+  - caption: Notebooks
+    numbered: true
+    chapters:
+    - file: notebooks/1_population_balances
+    - file: notebooks/2_monte_carlo_polycondensation
+    - file: notebooks/3_living_polymerization_distribution
+    - file: notebooks/4_living_polymerization_cstr
+    - file: notebooks/5_radical_polymerization
+    - file: notebooks/6_pulsed_laser_polymerization
+    - file: notebooks/7_semibatch_operation_safety
+    - file: notebooks/8_radical_copolymerization
+    - file: notebooks/9_cstr_multiplicity
+    - file: notebooks/10_polymerization_safety

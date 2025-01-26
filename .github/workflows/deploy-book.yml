@@ -1,0 +1,52 @@
+name: deploy-book
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  BASE_URL: /${{ github.event.repository.name }}
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy-book:
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: cache executed notebooks
+        uses: actions/cache@v3
+        with:
+            path: _build/.jupyter_cache
+            key: jupyter-book-cache-${{ hashFiles('requirements.txt') }}
+
+      - name: Build book
+        run: |
+          jupyter-book build .
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "_build/html"
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

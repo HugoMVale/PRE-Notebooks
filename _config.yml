@@ -1,0 +1,42 @@
+title: PRE-Notebooks
+author: Hugo Vale
+copyright: "2025"
+# logo: logo.png
+description: A collection of Jupyter Notebooks for learning Polymer Reaction Engineering.
+exclude_patterns: [.venv, _build]
+only_build_toc_files: true        
+
+execute:
+  execute_notebooks: false #auto"
+  timeout: 100
+
+parse:
+  myst_enable_extensions:
+    - amsmath
+    - colon_fence
+    - deflist
+    - dollarmath
+    - html_admonition
+    - html_image
+    - linkify
+    - replacements
+    - smartquotes
+    - substitution
+    - attrs_inline
+
+html:
+  use_repository_button: true
+  use_issues_button: true
+  base_url: https://hugomvale.github.io/PRE-Notebooks         
+
+launch_buttons:
+  notebook_interface: "classic"
+  colab_url: https://colab.research.google.com
+
+repository:
+  url: https://github.com/HugoMVale/PRE-Notebooks
+  branch: main
+
+# Add a bibtex file so that we can create citations
+# bibtex_bibfiles:
+#   - references.bib
