@@ -7,7 +7,7 @@ exclude_patterns: [.venv, _build]
 only_build_toc_files: true        
 
 execute:
-  execute_notebooks: false #auto"
+  execute_notebooks: "cache"
   timeout: 100
 
 parse:
@@ -37,6 +37,10 @@ repository:
   url: https://github.com/HugoMVale/PRE-Notebooks
   branch: main
 
+sphinx:
+  config:
+    mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+   
 # Add a bibtex file so that we can create citations
 # bibtex_bibfiles:
 #   - references.bib
