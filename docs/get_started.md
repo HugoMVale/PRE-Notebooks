@@ -14,7 +14,7 @@ With [Google Colab](https://colab.research.google.com/), you can open the notebo
 
 Alternatively, you can clone or download this repository to your local machine. This method requires a local Python (>=3.10) installation as well as the packages listed in [`requirements.txt`](../requirements.txt). Assuming you're running Windows and have `git` installed, follow these steps:
 
-```powershell
+```bash
 git clone https://github.com/HugoMVale/PRE-Notebooks.git
 cd PRE-Notebooks
 python -m venv .venv
