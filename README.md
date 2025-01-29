@@ -3,9 +3,7 @@
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://hugomvale.github.io/PRE-Notebooks)
 ![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)
 
-This GitHub repository contains Jupyter notebooks that illustrate various aspects of polymerization reactions,
-along with the mathematical and computational methods used to model and analyze them.
-These resources are suitable for both self-learning and classroom instruction.
+This GitHub repository contains Jupyter notebooks that illustrate various aspects of polymerization reactions, along with the mathematical and computational methods used to model and analyze them. These resources are suitable for both self-learning and classroom instruction.
 
 You can learn to do cool things like the example below! 🚀
 
@@ -17,19 +15,19 @@ You can learn to do cool things like the example below! 🚀
 
 The notebooks cover the following topics:
 
-1. [Population Balances for Polymer Systems](https://nbviewer.org/github/HugoMVale/PRE-Notebooks/blob/main/notebooks/1_population_balances.ipynb)
-1. [Monte Carlo Model of An + Bm Polycondensation](https://nbviewer.org/github/HugoMVale/PRE-Notebooks/blob/main/notebooks/2_monte_carlo_polycondensation.ipynb)
-1. [Living Polymerization – Chain Length Distribution](https://nbviewer.org/github/HugoMVale/PRE-Notebooks/blob/main/notebooks/3_living_polymerization_distribution.ipynb)
-1. [Living Polymerization – CSTR Operation](https://nbviewer.org/github/HugoMVale/PRE-Notebooks/blob/main/notebooks/4_living_polymerization_cstr.ipynb)
-1. [Naive Radical Polymerization Model](https://nbviewer.org/github/HugoMVale/PRE-Notebooks/blob/main/notebooks/5_radical_polymerization.ipynb)
-1. [Pulsed-Laser Polymerization](https://nbviewer.org/github/HugoMVale/PRE-Notebooks/blob/main/notebooks/6_pulsed_laser_polymerization.ipynb)
-1. [Semibatch Operation and Thermal Safety](https://nbviewer.org/github/HugoMVale/PRE-Notebooks/blob/main/notebooks/7_semibatch_operation_safety.ipynb)
-1. [Radical Copolymerization](https://nbviewer.org/github/HugoMVale/PRE-Notebooks/blob/main/notebooks/8_radical_copolymerization.ipynb)
-1. [Steady-State Multiplicity in CSTRs](https://nbviewer.org/github/HugoMVale/PRE-Notebooks/blob/main/notebooks/9_cstr_multiplicity.ipynb)
+* [x] Population Balances
+* [x] Monte Carlo Methods
+* [x] Radical Polymerization
+* [x] Living Polymerization
+* [x] Polycondensation
+* [x] Copolymerization
+* [ ] Devolatilization
 
 ## Getting Started
 
-To run the tutorials, you can use one of three methods:
+To open the notebooks in book format, just click [here](https://hugomvale.github.io/PRE-Notebooks).
+
+To run the notebooks, you can use one of three methods:
 
 * **[Google Colab](https://colab.research.google.com/)** — You can open the notebooks directly from the source code repository by selecting _File -> Open notebook -> GitHub -> URL"_, and entering the following repository name: `HugoMVale/PRE-Notebooks`. This method requires a Google account but is likely the easiest for beginners.
 
@@ -48,13 +46,11 @@ in [`requirements.txt`](requirements.txt). Assuming you're running Windows and h
 
 ## Contribution
 
-Contributions and improvements to these notebooks are welcome. If you have any suggestions,
-corrections, or additional materials that could enhance the learning experience,
+Contributions and improvements to these notebooks are welcome. If you have any suggestions, corrections, or additional materials that could enhance the learning experience,
 please consider submitting a pull request.
 
 ## License
 
 This project is provided under the very permissive [MIT License](LICENSE).
 
-We hope these lectures and materials provide a valuable resource for your journey into the
-world of (de)polymerization reaction modeling. Happy learning!
+We hope these notebooks provide a valuable resource for your journey into the world of (de)polymerization reaction modeling. Happy learning!
