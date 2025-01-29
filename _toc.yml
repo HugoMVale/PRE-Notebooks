@@ -2,10 +2,10 @@ format: jb-book
 root: docs/index
 
 parts:
-  - caption: Getting Started
+  - caption: Get Started
     numbered: false
     chapters:
-    - file: docs/get_started
+    - file: docs/run_notebooks
 
   - caption: Theoretical Background
     numbered: true

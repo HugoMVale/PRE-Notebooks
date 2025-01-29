@@ -1,4 +1,4 @@
-# Get Started
+# Run the Notebooks
 
 To run the notebooks, you can use one of three methods:
 
