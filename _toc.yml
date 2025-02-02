@@ -7,10 +7,11 @@ parts:
     chapters:
     - file: docs/run_notebooks
 
-  - caption: Theoretical Background
+  - caption: Mathematical Methods
     numbered: true
     chapters:
     - file: notebooks/population_balances
+    - file: notebooks/kinetic_monte_carlo
   
   - caption: Living Polymerization
     numbered: true
