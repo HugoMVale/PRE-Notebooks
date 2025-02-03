@@ -29,7 +29,7 @@ parts:
   - caption: Polycondensation
     numbered: true
     chapters:
-    - file: notebooks/monte_carlo_polycondensation
+    - file: notebooks/polycondensation_monte_carlo
 
   - caption: Special Topics
     numbered: true
