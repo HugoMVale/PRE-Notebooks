@@ -17,7 +17,7 @@ parts:
     numbered: true
     chapters:
     - file: notebooks/living_polymerization_distribution
-    - file: notebooks/living_polymerization_cstr
+    - file: notebooks/living_polymerization_rtd
 
   - caption: Radical Polymerization
     numbered: true
