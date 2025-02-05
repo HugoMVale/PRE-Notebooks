@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2025-02-01T19:06:58.461333</dc:date>
+    <dc:date>2025-02-05T20:56:19.839570</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -35,7 +35,7 @@ L 103.655172 273.282353
 L 103.655172 194.929412 
 L 19.241379 194.929412 
 z
-" clip-path="url(#p62cb09df64)" style="fill: #add8e6; stroke: #000000; stroke-width: 2; stroke-linejoin: miter"/>
+" clip-path="url(#p4fa480d6b7)" style="fill: #add8e6; stroke: #000000; stroke-width: 2; stroke-linejoin: miter"/>
    </g>
    <g id="patch_3">
     <path d="M 19.241379 194.929412 
@@ -43,7 +43,7 @@ L 103.655172 194.929412
 L 103.655172 77.4 
 L 19.241379 77.4 
 z
-" clip-path="url(#p62cb09df64)" style="fill: #90ee90; stroke: #000000; stroke-width: 2; stroke-linejoin: miter"/>
+" clip-path="url(#p4fa480d6b7)" style="fill: #90ee90; stroke: #000000; stroke-width: 2; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
     <path d="M 19.241379 77.4 
@@ -51,16 +51,16 @@ L 103.655172 77.4
 L 103.655172 14.717647 
 L 19.241379 14.717647 
 z
-" clip-path="url(#p62cb09df64)" style="fill: #fa8072; stroke: #000000; stroke-width: 2; stroke-linejoin: miter"/>
+" clip-path="url(#p4fa480d6b7)" style="fill: #fa8072; stroke: #000000; stroke-width: 2; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
     <path d="M 106.773294 136.164706 
 Q 116.316503 136.164706 126.977747 136.164706 
-" clip-path="url(#p62cb09df64)" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+" clip-path="url(#p4fa480d6b7)" style="fill: none; stroke: #000000; stroke-linecap: round"/>
     <path d="M 114.773294 140.164706 
 L 106.773294 136.164706 
 L 114.773294 132.164706 
-" clip-path="url(#p62cb09df64)" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+" clip-path="url(#p4fa480d6b7)" style="fill: none; stroke: #000000; stroke-linecap: round"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>
@@ -190,54 +190,31 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- $a$ -->
-    <g transform="translate(116.197931 131.686085) scale(0.14 -0.14)">
+    <!-- $z_1$ -->
+    <g transform="translate(113.537931 129.335496) scale(0.14 -0.14)">
      <defs>
-      <path id="DejaVuSans-Oblique-61" d="M 3438 1997 
-L 3047 0 
-L 2472 0 
-L 2578 531 
-Q 2325 219 2001 64 
-Q 1678 -91 1281 -91 
-Q 834 -91 548 182 
-Q 263 456 263 884 
-Q 263 1497 752 1853 
-Q 1241 2209 2100 2209 
-L 2900 2209 
-L 2931 2363 
-Q 2938 2388 2941 2417 
-Q 2944 2447 2944 2509 
-Q 2944 2788 2717 2942 
-Q 2491 3097 2081 3097 
-Q 1800 3097 1504 3025 
-Q 1209 2953 897 2809 
-L 997 3341 
-Q 1322 3463 1633 3523 
-Q 1944 3584 2234 3584 
-Q 2853 3584 3176 3315 
-Q 3500 3047 3500 2534 
-Q 3500 2431 3484 2292 
-Q 3469 2153 3438 1997 
-z
-M 2816 1759 
-L 2241 1759 
-Q 1534 1759 1195 1570 
-Q 856 1381 856 984 
-Q 856 709 1029 553 
-Q 1203 397 1509 397 
-Q 1978 397 2328 733 
-Q 2678 1069 2791 1631 
-L 2816 1759 
+      <path id="DejaVuSans-Oblique-7a" d="M 744 3500 
+L 3475 3500 
+L 3372 2975 
+L 738 459 
+L 2913 459 
+L 2822 0 
+L -19 0 
+L 84 525 
+L 2719 3041 
+L 653 3041 
+L 744 3500 
 z
 " transform="scale(0.015625)"/>
      </defs>
-     <use xlink:href="#DejaVuSans-Oblique-61"/>
+     <use xlink:href="#DejaVuSans-Oblique-7a" transform="translate(0 0.3125)"/>
+     <use xlink:href="#DejaVuSans-31" transform="translate(52.490234 -16.09375) scale(0.7)"/>
     </g>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p62cb09df64">
+  <clipPath id="p4fa480d6b7">
    <rect x="10.8" y="10.8" width="122.4" height="266.4"/>
   </clipPath>
  </defs>
