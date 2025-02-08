@@ -4,7 +4,13 @@ To run the notebooks, you can use one of three methods:
 
 ## Google Colab
 
-With [Google Colab](https://colab.research.google.com/), you can open the notebooks directly from the source code repository by selecting _File -> Open notebook -> GitHub -> URL"_, and entering the following repository name: `HugoMVale/PRE-Notebooks`. This method requires a Google account but is likely the easiest for beginners.
+This method requires a Google account but is the easiest option for beginners. Simply click the 🚀 icon at the top of the notebook you want to open.  
+
+Alternatively, you can open the notebooks manually:  
+
+1. Go to [Google Colab](https://colab.research.google.com/).  
+2. Select **File → Open notebook → GitHub → URL**.  
+3. Enter the following repository name: `HugoMVale/PRE-Notebooks`.  
 
 ## Binder
 
