@@ -10,29 +10,30 @@ parts:
   - caption: Mathematical Methods
     numbered: true
     chapters:
-    - file: notebooks/population_balances
-    - file: notebooks/kinetic_monte_carlo
+    - file: notebooks/1_population_balances
+    - file: notebooks/2_kinetic_monte_carlo
   
   - caption: Living Polymerization
     numbered: true
     chapters:
-    - file: notebooks/living_polymerization_distribution
-    - file: notebooks/living_polymerization_rtd
+    - file: notebooks/3_living_polymerization_distribution
+    - file: notebooks/4_living_polymerization_rtd
 
   - caption: Radical Polymerization
     numbered: true
     chapters:
-    - file: notebooks/radical_batch_polymerization
-    - file: notebooks/radical_semibatch_polymerization
-    - file: notebooks/radical_semibatch_copolymerization
+    - file: notebooks/5_radical_pbe_batch_polymerization
+    - file: notebooks/6_radical_kmc_batch_polymerization
+    - file: notebooks/7_radical_semibatch_polymerization
+    - file: notebooks/8_radical_semibatch_copolymerization
 
   - caption: Polycondensation
     numbered: true
     chapters:
-    - file: notebooks/polycondensation_monte_carlo
+    - file: notebooks/9_polycondensation_monte_carlo
 
   - caption: Special Topics
     numbered: true
     chapters:
-    - file: notebooks/pulsed_laser_polymerization
-    - file: notebooks/cstr_multiplicity
+    - file: notebooks/10_pulsed_laser_polymerization
+    - file: notebooks/11_cstr_multiplicity
