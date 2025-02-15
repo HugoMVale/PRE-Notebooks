@@ -26,14 +26,15 @@ parts:
     - file: notebooks/6_radical_kmc_batch_polymerization
     - file: notebooks/7_radical_semibatch_polymerization
     - file: notebooks/8_radical_semibatch_copolymerization
+  #  - file: notebooks/9_radical_nmp_batch_polymerization
 
   - caption: Polycondensation
     numbered: true
     chapters:
-    - file: notebooks/9_polycondensation_monte_carlo
+    - file: notebooks/10_polycondensation_monte_carlo
 
   - caption: Special Topics
     numbered: true
     chapters:
-    - file: notebooks/10_pulsed_laser_polymerization
-    - file: notebooks/11_cstr_multiplicity
+    - file: notebooks/11_pulsed_laser_polymerization
+    - file: notebooks/12_cstr_multiplicity
