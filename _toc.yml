@@ -24,9 +24,9 @@ parts:
     chapters:
     - file: notebooks/5_radical_pbe_batch_polymerization
     - file: notebooks/6_radical_kmc_batch_polymerization
-    - file: notebooks/7_radical_semibatch_polymerization
-    - file: notebooks/8_radical_semibatch_copolymerization
-  #  - file: notebooks/9_radical_nmp_batch_polymerization
+    - file: notebooks/7_atrp_batch_polymerization
+    - file: notebooks/8_radical_semibatch_polymerization
+    - file: notebooks/9_radical_semibatch_copolymerization
 
   - caption: Polycondensation
     numbered: true
