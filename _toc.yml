@@ -24,7 +24,7 @@ parts:
     chapters:
     - file: notebooks/5_radical_pbe_batch_polymerization
     - file: notebooks/6_radical_kmc_batch_polymerization
-    - file: notebooks/7_atrp_batch_polymerization
+    - file: notebooks/7_radical_atrp_batch_polymerization
     - file: notebooks/8_radical_semibatch_polymerization
     - file: notebooks/9_radical_semibatch_copolymerization
 
@@ -32,9 +32,10 @@ parts:
     numbered: true
     chapters:
     - file: notebooks/10_polycondensation_monte_carlo
-
+  #  - file: notebooks/11_polycondensation_epoxy_curing
+    
   - caption: Special Topics
     numbered: true
     chapters:
-    - file: notebooks/11_pulsed_laser_polymerization
-    - file: notebooks/12_cstr_multiplicity
+    - file: notebooks/12_pulsed_laser_polymerization
+    - file: notebooks/13_cstr_multiplicity
