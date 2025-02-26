@@ -32,7 +32,7 @@ parts:
     numbered: true
     chapters:
     - file: notebooks/10_polycondensation_monte_carlo
-  #  - file: notebooks/11_polycondensation_epoxy_curing
+    - file: notebooks/11_polycondensation_epoxy_curing
     
   - caption: Special Topics
     numbered: true
