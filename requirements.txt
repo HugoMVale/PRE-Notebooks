@@ -1,4 +1,5 @@
 
+polykin
 numba
 numpy
 scipy
