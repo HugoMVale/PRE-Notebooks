@@ -19,8 +19,9 @@ The notebooks cover the following topics:
 * [x] Monte Carlo Methods
 * [x] Radical Polymerization
 * [x] Living Polymerization
-* [x] Polycondensation
+* [x] Step-Growth Polymerization
 * [x] Copolymerization
+* [x] Parameter Estimation
 * [ ] Devolatilization
 
 ## Getting Started
