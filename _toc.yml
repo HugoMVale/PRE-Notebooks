@@ -28,11 +28,12 @@ parts:
     - file: notebooks/8_radical_semibatch_polymerization
     - file: notebooks/9_radical_semibatch_copolymerization
 
-  - caption: Polycondensation
+  - caption: Step-Growth Polymerization
     numbered: true
     chapters:
-    - file: notebooks/10_polycondensation_monte_carlo
-    - file: notebooks/11_polycondensation_epoxy_curing
+    - file: notebooks/10_stepgrowth_epoxy_curing
+    - file: notebooks/11_stepgrowth_monte_carlo
+
     
   - caption: Special Topics
     numbered: true
