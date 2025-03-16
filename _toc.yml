@@ -34,9 +34,13 @@ parts:
     - file: notebooks/10_stepgrowth_epoxy_curing
     - file: notebooks/11_stepgrowth_monte_carlo
 
+  # - caption: Devolatilization
+  #   numbered: true
+  #   chapters:
+  #   - file: notebooks/12_devolatilization_static
     
   - caption: Special Topics
     numbered: true
     chapters:
-    - file: notebooks/12_pulsed_laser_polymerization
-    - file: notebooks/13_cstr_multiplicity
+    - file: notebooks/13_pulsed_laser_polymerization
+    - file: notebooks/14_cstr_multiplicity
