@@ -13,20 +13,20 @@ parts:
     - file: notebooks/01_population_balances
     - file: notebooks/02_kinetic_monte_carlo
   
-  - caption: Living Polymerization
-    numbered: true
-    chapters:
-    - file: notebooks/03_living_polymerization_distribution
-    - file: notebooks/04_living_polymerization_rtd
-
   - caption: Radical Polymerization
     numbered: true
     chapters:
-    - file: notebooks/05_radical_pbe_batch_polymerization
-    - file: notebooks/06_radical_kmc_batch_polymerization
-    - file: notebooks/07_radical_atrp_batch_polymerization
-    - file: notebooks/08_radical_semibatch_polymerization
-    - file: notebooks/09_radical_semibatch_copolymerization
+    - file: notebooks/03_radical_pbe_batch_polymerization
+    - file: notebooks/04_radical_kmc_batch_polymerization
+    - file: notebooks/05_radical_atrp_batch_polymerization
+    - file: notebooks/06_radical_semibatch_polymerization
+    - file: notebooks/07_radical_semibatch_copolymerization
+
+  - caption: Living Polymerization
+    numbered: true
+    chapters:
+    - file: notebooks/08_living_polymerization_distribution
+    - file: notebooks/09_living_polymerization_rtd
 
   - caption: Step-Growth Polymerization
     numbered: true
@@ -34,10 +34,10 @@ parts:
     - file: notebooks/10_stepgrowth_epoxy_curing
     - file: notebooks/11_stepgrowth_monte_carlo
 
-  # - caption: Devolatilization
-  #   numbered: true
-  #   chapters:
-  #   - file: notebooks/12_devolatilization_static
+  - caption: Devolatilization
+    numbered: true
+    chapters:
+    - file: notebooks/12_devolatilization_static
     
   - caption: Special Topics
     numbered: true
