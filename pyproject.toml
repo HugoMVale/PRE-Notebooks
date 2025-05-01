@@ -1,0 +1,18 @@
+[project]
+name = "pre-notebooks"
+version = "0.1.0"
+description = "Notebooks for Polymer Reaction Engineering lectures."
+readme = "README.md"
+requires-python = ">=3.10.10"
+dependencies = [
+    "ipympl>=0.9.7",
+    "ipywidgets>=8.1.6",
+    "jupyter>=1.1.1",
+    "jupyter-book>=1.0.4.post1",
+    "matplotlib>=3.10.1",
+    "numba>=0.61.2",
+    "numpy>=1.26.4",
+    "plotly>=6.0.1",
+    "polykin>=0.5.4",
+    "scipy>=1.15.2",
+]
