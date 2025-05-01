@@ -10,37 +10,37 @@ parts:
   - caption: Mathematical Methods
     numbered: true
     chapters:
-    - file: notebooks/01_population_balances
-    - file: notebooks/02_kinetic_monte_carlo
+    - file: notebooks/01/population_balances
+    - file: notebooks/02/kinetic_monte_carlo
   
   - caption: Radical Polymerization
     numbered: true
     chapters:
-    - file: notebooks/03_radical_pbe_batch_polymerization
-    - file: notebooks/04_radical_kmc_batch_polymerization
-    - file: notebooks/05_radical_atrp_batch_polymerization
-    - file: notebooks/06_radical_semibatch_polymerization
-    - file: notebooks/07_radical_semibatch_copolymerization
+    - file: notebooks/03/radical_pbe_batch_polymerization
+    - file: notebooks/04/radical_kmc_batch_polymerization
+    - file: notebooks/05/radical_atrp_batch_polymerization
+    - file: notebooks/06/radical_semibatch_polymerization
+    - file: notebooks/07/radical_semibatch_copolymerization
 
   - caption: Living Polymerization
     numbered: true
     chapters:
-    - file: notebooks/08_living_polymerization_distribution
-    - file: notebooks/09_living_polymerization_rtd
+    - file: notebooks/08/living_polymerization_distribution
+    - file: notebooks/09/living_polymerization_rtd
 
   - caption: Step-Growth Polymerization
     numbered: true
     chapters:
-    - file: notebooks/10_stepgrowth_epoxy_curing
-    - file: notebooks/11_stepgrowth_monte_carlo
+    - file: notebooks/10/stepgrowth_epoxy_curing
+    - file: notebooks/11/stepgrowth_monte_carlo
 
   - caption: Devolatilization
     numbered: true
     chapters:
-    - file: notebooks/12_devolatilization_static
+    - file: notebooks/12/devolatilization_static
     
   - caption: Special Topics
     numbered: true
     chapters:
-    - file: notebooks/13_pulsed_laser_polymerization
-    - file: notebooks/14_cstr_multiplicity
+    - file: notebooks/13/pulsed_laser_polymerization
+    - file: notebooks/14/cstr_multiplicity

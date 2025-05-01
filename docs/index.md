@@ -4,4 +4,4 @@ This GitHub repository contains Jupyter notebooks that illustrate various aspect
 
 You can learn to do cool things like the example below! 🚀
 
-![Randsom scission](../notebooks/animation_PLP-SEC-10-pulses.gif){width=600px align=center}
+![PLP-SEC](../notebooks/13/animation-PLP-SEC-10-pulses.gif){width=600px align=center}
