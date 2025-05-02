@@ -22,7 +22,7 @@ The notebooks cover the following topics:
 * [x] Step-Growth Polymerization
 * [x] Copolymerization
 * [x] Parameter Estimation
-* [ ] Devolatilization
+* [x] Devolatilization
 
 ## Getting Started
 
