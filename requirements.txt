@@ -3,8 +3,8 @@ numba
 numpy
 scipy
 plotly
-matplotlib # <3.8
-ipywidgets # <8.0
-ipympl # <1.0
-jupyter # <1.1
-jupyter-book
+matplotlib
+ipywidgets
+ipympl
+jupyter
+jupyter-book<2.0
