@@ -1,6 +1,5 @@
 # Polymer Reaction Engineering Notebooks
 
-[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://hugomvale.github.io/PRE-Notebooks)
 ![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)
 
 This GitHub repository contains Jupyter notebooks that illustrate various aspects of polymerization reactions, along with the mathematical and computational methods used to model and analyze them. These resources are suitable for both self-learning and classroom instruction.
