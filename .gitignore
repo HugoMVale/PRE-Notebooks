@@ -3,5 +3,4 @@ __pycache__
 _notes.md
 _build
 assets
-
-
+.python-version
