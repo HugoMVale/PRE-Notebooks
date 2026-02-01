@@ -1,6 +1,6 @@
 # Run the Notebooks
 
-To run the notebooks, you can use one of three methods:
+To run the notebooks, you can use one of two methods:
 
 ## Google Colab
 
@@ -11,10 +11,6 @@ Alternatively, you can open the notebooks manually:
 1. Go to [Google Colab](https://colab.research.google.com/).  
 2. Select **File → Open notebook → GitHub → URL**.  
 3. Enter the following repository name: `HugoMVale/PRE-Notebooks`.  
-
-## Binder
-
-[Binder](https://mybinder.org/v2/gh/HugoMVale/PRE-Notebooks/HEAD?labpath=notebooks) also allows you to open the notebooks directly from the repository. However, you will need to _wait_ for the container to be built. While suitable for beginners, this method requires a bit more patience, and the build process can occasionally fail, requiring a relaunch.
 
 ## Local environment
 
