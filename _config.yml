@@ -28,6 +28,8 @@ html:
   use_repository_button: true
   use_issues_button: true
   base_url: https://hugomvale.github.io/PRE-Notebooks         
+  extra_css:
+    - custom.css
 
 launch_buttons:
   notebook_interface: "classic"
@@ -38,7 +40,8 @@ repository:
   branch: main
 
 sphinx:
-  # extra_extensions:
+  extra_extensions:
+    - sphinxcontrib.mermaid
   #   - sphinxcontrib.katex
   config:
     mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
