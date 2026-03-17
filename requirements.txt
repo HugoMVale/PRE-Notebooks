@@ -1,11 +1,9 @@
-polykin
+ipympl
+ipywidgets
+jupyter
+matplotlib
 numba
 numpy
-scipy
 plotly
-matplotlib
-ipywidgets
-ipympl
-jupyter
-jupyter-book<2.0
-sphinxcontrib-mermaid
+polykin
+scipy
