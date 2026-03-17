@@ -26,11 +26,12 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.13"
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          pip install uv
+          uv sync
 
       - name: cache executed notebooks
         uses: actions/cache@v3
@@ -40,7 +41,7 @@ jobs:
 
       - name: Build book
         run: |
-          jupyter-book build .
+          uv run jupyter-book build .
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
