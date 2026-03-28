@@ -1,0 +1,47 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Jupyter Book",
+            "type": "shell",
+            "command": "uv",
+            "args": [
+                "run",
+                "jupyter-book",
+                "build",
+                "."
+            ],
+            "options": {
+                "shell": {
+                    "executable": "C:\\Windows\\System32\\cmd.exe"
+                }
+            }
+        },
+        {
+            "label": "Open Jupyter Book Index",
+            "type": "shell",
+            "command": "cmd",
+            "args": [
+                "/c",
+                "start",
+                "",
+                "${workspaceFolder}\\_build\\html\\index.html"
+            ],
+            "options": {
+                "shell": {
+                    "executable": "C:\\Windows\\System32\\cmd.exe"
+                }
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Build and Open Jupyter Book",
+            "dependsOn": [
+                "Build Jupyter Book",
+                "Open Jupyter Book Index"
+            ],
+            "dependsOrder": "sequence",
+            "problemMatcher": []
+        }
+    ]
+}
