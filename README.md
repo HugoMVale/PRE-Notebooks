@@ -7,7 +7,7 @@ This GitHub repository contains Jupyter notebooks that illustrate various aspect
 You can learn to do cool things like the example below! 🚀
 
 <p align="center">
-  <img src="notebooks/13/animation-PLP-SEC-10-pulses.gif" width="600" alt="Random scission">
+  <img src="notebooks/14/animation-PLP-SEC-10-pulses.gif" width="600" alt="Random scission">
 </p>
 
 ## Topics
