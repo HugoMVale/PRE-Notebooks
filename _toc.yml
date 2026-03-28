@@ -31,16 +31,17 @@ parts:
   - caption: Step-Growth Polymerization
     numbered: true
     chapters:
-    - file: notebooks/10/stepgrowth_epoxy_curing
-    - file: notebooks/11/stepgrowth_monte_carlo
+    - file: notebooks/10/stepgrowth_polycondensation_ab
+    - file: notebooks/11/stepgrowth_curing_kinetics
+    - file: notebooks/12/stepgrowth_monte_carlo
 
   - caption: Devolatilization
     numbered: true
     chapters:
-    - file: notebooks/12/devolatilization_static
+    - file: notebooks/13/devolatilization_static
     
   - caption: Special Topics
     numbered: true
     chapters:
-    - file: notebooks/13/pulsed_laser_polymerization
-    - file: notebooks/14/cstr_multiplicity
+    - file: notebooks/14/pulsed_laser_polymerization
+    - file: notebooks/15/cstr_multiplicity
